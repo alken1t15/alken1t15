@@ -4,7 +4,7 @@
   <a href="https://vk.com/alken1t">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="https://mailto:alken1t15@gmail.com">
+  <a href="alken1t15@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/alken1t/">
